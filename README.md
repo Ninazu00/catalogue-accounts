@@ -1,3 +1,11 @@
+This repository is a copy of the `mohamed/` folder from our group project
+repository, with its commit history, so my part can be read on its own.
+
+- Group repository: https://github.com/Ninazu00/cloud-security-team-38
+- Branch there: `mohamed`, merged through pull requests #1, #2, #4, #7, #12 and #13.
+
+---
+
 # Catalogue & Accounts (Mohamed Ayman, 239236)
 
 My part of the Class Timetable Builder. This service owns the course catalogue
